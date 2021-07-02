@@ -9,6 +9,6 @@ def multiply(x,y):
     return x*y
 #divide implementaton
 def divide(x,y):
-    pass
+    return x/y
 
 
